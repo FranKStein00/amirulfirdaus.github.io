@@ -1,5 +1,5 @@
 const api = {
-    key: "cb65f39416d84ca6ab64d69724be8605",
+    key: "98acebb032774b71a90e680e4b108dc9",
     base:"https://timezone.abstractapi.com/v1/current_time/?api_key="
 }
 getResults2();
